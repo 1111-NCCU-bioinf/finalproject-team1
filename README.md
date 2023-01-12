@@ -1,9 +1,9 @@
-# Title of your paper
+# Diagnostic Potential for a Serum miRNA Neural Network for Detection of Ovarian Cancer<img width="1094" alt="image" src="https://user-images.githubusercontent.com/15332896/211952889-3980f402-1639-4cb2-a63e-135e496d7862.png">
 ### Members
-* name, student ID1
-* name, student ID2
-* name, student ID3
-* ...
+* Tao-hsiang Chang, 111753501
+* Shi-rui Liang, 111953216
+* Yun-hung Chiang, 111753213
+
 
 ### Demo 
 You might provide an example commend or few commends to reproduce your analysis, i.e., the following R script
