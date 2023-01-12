@@ -10,7 +10,7 @@ You might provide an example commend or few commends to reproduce your analysis,
 ```
  R Test.R
  STATISTICA > Neural net > Variables:- Diagnosis
-                                     - Hsas
+                                     - Patients data
                                      - Prediction
                                      
 ```
