@@ -53,5 +53,6 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 
 ## References
 * Packages you use
-* [(https://ggplot2.tidyverse.org/)
+* [ggplot2](https://ggplot2.tidyverse.org/) [ggstatsplot](https://cran.r-project.org/web/packages/ggstatsplot/index.html)
+* [STATISTICA Data Miner 14](https://www.statistica.com/en/termine/training/produktkurse/data-mining-in-statistica-sdm)
 * Related publications
