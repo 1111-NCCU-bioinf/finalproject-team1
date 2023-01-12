@@ -33,7 +33,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
     ,R for wilcoxon graph for figure 7
   * additional packages you found
     
-    ggplot2 and ggstatsplotfor wilcoxon
+    ggplot2 and ggstatsplot for wilcoxon
 * Analysis steps
 
 ### results
