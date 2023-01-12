@@ -21,7 +21,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 * Source: the 'Diagnostic potential for a serum miRNA neural network for detection of ovarian cancer' and its supplemental files
 * Format: docx and xlsx
 * Size: negligable
-* Notice: the full Dataset 1 (GSE94533) is too big and not uploaded
+* Notice: the full Dataset 1 [GSE94533] (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94533)
 
 ### code
 * Which packages do you use? 
