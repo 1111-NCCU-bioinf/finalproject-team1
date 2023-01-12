@@ -7,8 +7,12 @@
 
 ### Demo 
 You might provide an example commend or few commends to reproduce your analysis, i.e., the following R script
-```R
-Rscript code/your_script.R --input data/training --output results/performance.tsv
+```
+ R Test.R
+ STATISTICA > Neural net > Variables:- Diagnosis
+                                     - Hsas
+                                     - Prediction
+                                     
 ```
 
 ## Folder organization and its related information
@@ -27,10 +31,10 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 * Which packages do you use? 
   * original packages in the paper
     
-    Paper:STATISTICA Data Miner 12.5 (StatSoft, Tulsa, OK, USA)
-    
+    Paper:STATISTICA Data Miner 12.5 (StatSoft, Tulsa, OK, USA) 
+          *Enviornment:Windows only
     Ours :STATISTICA Data Miner 14
-    ,R for wilcoxon graph for figure 7
+    R for wilcoxon graph for figure 7
   * additional packages you found
     
     ggplot2 and ggstatsplot for wilcoxon
