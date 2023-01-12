@@ -32,6 +32,8 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
     Ours :STATISTICA Data Miner 14
     ,R for wilcoxon graph for figure 7
   * additional packages you found
+    
+    ggplot2 and ggstatsplotfor wilcoxon
 * Analysis steps
 
 ### results
