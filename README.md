@@ -26,11 +26,16 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 ### code
 * Which packages do you use? 
   * original packages in the paper
+    Paper:STATISTICA Data Miner 12.5 (StatSoft, Tulsa, OK, USA)
+    
+    Ours :STATISTICA Data Miner 14
+    ,R for wilcoxon graph for figure 7
   * additional packages you found
 * Analysis steps
 
 ### results
 * Which part of the paper do you reproduce?
+   
    Figure 5
       
       paper:
