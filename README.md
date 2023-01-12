@@ -38,6 +38,7 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 
 ### results
 * Which part of the paper do you reproduce?
+* Figure 5、7、9、10
    
    Figure 5
       
