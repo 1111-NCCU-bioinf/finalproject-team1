@@ -38,18 +38,8 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 
 ### results
 * Which part of the paper do you reproduce?
-* Figure 5、7、9、10
-   
-   Figure 5
-      
-      paper:
-    <img width="220" alt="image" src="https://user-images.githubusercontent.com/110672275/211954402-2a0c628e-0e20-4226-91a5-d0539f91e501.png">
-       
-       ours:
-   <img width="220" alt="image" src="https://user-images.githubusercontent.com/110672275/211954489-ee3dd037-1ff3-4bd0-815e-0cfb15b63de8.jpg">
-
-   
-* Any improvement or change by your package?
+* Figure 5, 7, 9 and 10, please see presentation
+* <img width="718" alt="image" src="https://user-images.githubusercontent.com/15332896/211957543-0714e327-0032-428f-8486-0695811566a1.png">
 
 ## References
 * Packages you use
